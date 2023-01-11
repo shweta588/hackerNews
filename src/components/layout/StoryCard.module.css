@@ -1,0 +1,18 @@
+.story {
+  width: 80%;
+  margin: 10px auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.story span {
+  text-decoration: none;
+  font-size: 0.75rem;
+  color: #615d5f;
+}
+
+.story div {
+  font-size: 1.25rem;
+  color: #24181d;
+}

@@ -1,0 +1,14 @@
+body {
+  background-color:#ffc3a0;
+}
+
+.main {
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+
+.loading {
+  color: rgb(174, 11, 101);
+  text-align: center;
+  font-size: 2rem;
+}
